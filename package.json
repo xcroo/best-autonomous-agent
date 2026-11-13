@@ -1,0 +1,10 @@
+{
+  "name": "aiprove-autonomous-agent",
+  "version": "1.0.0",
+  "description": "Fully-autonomous AIProve agent: reads skill.md, authenticates with its own keypair, enters and completes yes/no forecast bounties.",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.17.0"
+  }
+}
